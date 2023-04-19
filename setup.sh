@@ -1,3 +1,4 @@
+#!/bin/bash
 # TODO: clone reposotiry first
 
 sudo cp 10-keyboard.conf /etc/X11/xorg.conf.d/10-keyboard.conf
